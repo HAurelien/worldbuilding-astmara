@@ -22,4 +22,4 @@ status: "draft"
 tags: []
 ---
 
-Rimas accidentally used his magic abilities for the first time. Which created a problem as magic wasn't discovered yet. This is also the day [[Angres Rimas]] accidentally directed [[Arrack]] toward their world as she decided which world was the more promising heading towards.
+Rimas accidentally used his magic abilities for the first time. Which created a problem as magic wasn't discovered yet. This is also the day [[Angres Rimas]] accidentally directed [[Arrack]] toward their planet as she decided which planet was the more promising heading towards.

@@ -9,7 +9,7 @@ tags: []
 wa_id: "ce67aca8-a521-41f9-aadd-67f493987798"
 ---
 
-This is the timeline retracing the major events of the world of Zephyrion. It will only trace the most important events of this world.
+This is the timeline retracing the major events of Zephyrion. It will only trace the most important events of this planet.
 
 ## Eras
 

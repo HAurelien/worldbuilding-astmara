@@ -9,7 +9,7 @@ tags: []
 wa_id: "a7ed06c5-3b7f-4076-b1b2-f5c2c1c1758c"
 ---
 
-This is the global timeline of the world of Aethernam. It only contains events directly related to major changes in the world.
+This is the global timeline of Aethernam. It only contains events directly related to major changes in the world.
 
 ## Eras
 

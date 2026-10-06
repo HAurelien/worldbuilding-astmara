@@ -38,7 +38,7 @@ Analyzing one's magic closely, or monitoring one's body reactions, can help dete
 
 ### Affected Groups
 
-Inhabitant of [[Aethernam]] before the Silence, when the gods arrived to [[Zephyrion]]. After that, they were present in both worlds.
+Inhabitant of [[Aethernam]] before the Silence, when the gods arrived to [[Zephyrion]]. After that, they were present on both planets.
 
 ### Prevention
 

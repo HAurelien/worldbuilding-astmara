@@ -12,7 +12,7 @@ wa_id: "4f616a67-8eb4-4220-836b-53a02dab57ac"
 ---
 
 Arrack "The world eater".
-She is the person who destroyed the world of Aethernam during the Great Cataclysm.
+She is the person who destroyed Aethernam during the Great Cataclysm.
 
 ## Events
 

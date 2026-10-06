@@ -21,4 +21,4 @@ status: "draft"
 tags: []
 ---
 
-From this date and for a few more years, Rimas lived in this world and begun to eliminate the creatures that roamed since The Great Cataclysm breached the Pillar's security.
+From this date and for a few more years, Rimas lived on Zephyrion and begun to eliminate the creatures that roamed since The Great Cataclysm breached the Pillar's security.

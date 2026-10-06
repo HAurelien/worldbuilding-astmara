@@ -36,7 +36,7 @@ tags: []
 wa_id: "d7b6af98-8dcf-4b0e-8d0e-ff51f8181aa6"
 ---
 
-This is the group of people knowing about the world of both Aethernam and Zephyrion who sworn to keep Arrack from destroying anything anymore.
+This is the group of people knowing about both Aethernam and Zephyrion who sworn to keep Arrack from destroying anything anymore.
 
 ### History
 

@@ -9,7 +9,7 @@ tags: []
 wa_id: "9c0d636b-c5e7-42e6-8149-3bf974bd00fa"
 ---
 
-This is the timeline of Arrack, the main enemy of the worlds.
+This is the timeline of Arrack, the main enemy of Kaelesmuth.
 
 ## Eras
 

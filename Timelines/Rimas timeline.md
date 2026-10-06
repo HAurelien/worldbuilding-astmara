@@ -9,7 +9,7 @@ tags: []
 wa_id: "4faa1b15-6fd7-4088-ab85-216d7a48f5ce"
 ---
 
-This is the timeline of [[Angres Rimas]], one of the most important character of the two first developped worlds of [[Zephyrion]] and [[Aethernam]].
+This is the timeline of [[Angres Rimas]], one of the most important character of the two first developped planets, [[Zephyrion]] and [[Aethernam]].
 
 ## Events
 

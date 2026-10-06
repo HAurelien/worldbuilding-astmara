@@ -26,4 +26,4 @@ status: "draft"
 tags: []
 ---
 
-This is the day the world of [[Aethernam]] was destroyed. Since [[Arrack]], the World Eater, unleached the cataclysm, the whole planet turned into real nightmare. Altering the face of this world forever.
+This is the day [[Aethernam]] was destroyed. Since [[Arrack]], the World Eater, unleached the cataclysm, the whole planet turned into real nightmare. Altering the face of this world forever.

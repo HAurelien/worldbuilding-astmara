@@ -7,7 +7,7 @@ tags: []
 
 ## World
 
-Astmara is the world; [[Aethernam]] and [[Zephyrion]] are planets in it, and the [[Ether]] is a plane of it.
+Kaelesmuth is the world; [[Aethernam]] and [[Zephyrion]] are planets in it, and the [[Ether]] is a plane of it.
 
 ## Folders
 
@@ -15,7 +15,7 @@ One folder per kind of note: Characters, Gods, Places, Organizations, Species, C
 
 ## Templates
 
-Templates live in `_templates`: Character, Place, Organization, Event. Gods use the Character template with `type: god`. Every note has a `type`, which is what the lists on [[Astmara World]] are built from.
+Templates live in `_templates`: Character, Place, Organization, Event. Gods use the Character template with `type: god`. Every note has a `type`, which is what the lists on [[Kaelesmuth World]] are built from.
 
 ## Dates
 

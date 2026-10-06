@@ -7,7 +7,7 @@ status: "draft"
 tags: []
 ---
 
-Astmara is the world. Its planets include [[Aethernam]] and [[Zephyrion]].
+Kaelesmuth is the world. Its planets include [[Aethernam]] and [[Zephyrion]].
 
 ## Events
 
