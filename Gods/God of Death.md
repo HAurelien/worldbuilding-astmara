@@ -1,0 +1,46 @@
+---
+type: "god"
+aliases: []
+world:
+  - "[[Aethernam]]"
+  - "[[Zephyrion]]"
+species: "[[Ether mirror]]"
+calendar: "aethernam"
+affiliations:
+  - "[[Lower gods]]"
+religions:
+  - "[[Lone Protectors]]"
+realm: "[[Ether]]"
+status: "canon"
+tags: []
+wa_id: "b99047c8-69d9-4a23-ae37-511c695fbfa6"
+---
+
+The God of Death is actually the first non-person God. He is one of the main supports of the [[Lone Protectors]] against [[Arrack]], as he came from the strong believe the survivors of the cataclysm had for the foretold hero that would one day free them from their fate, [[Angres Rimas]]
+
+## Relationships
+- [[God of Death]] (contact (Important)) ⇄ [[Angres Rimas]] (minion (Vital))
+    - God of Death → level 4 / 4, Honest
+    - Angres Rimas → level 4 / 4, Honest
+    - History: The God of Death is the main God the [[Lone Protectors]] are in communication with.
+
+## Events
+
+```base
+filters:
+  and:
+    - '!file.inFolder("_templates")'
+    - type == "event"
+    - file.hasLink(this.file)
+views:
+  - type: table
+    name: Events
+    order:
+      - file.name
+      - year
+      - event_type
+      - timelines
+    sort:
+      - property: year
+        direction: ASC
+```
