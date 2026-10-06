@@ -1,7 +1,7 @@
 ---
 type: "god"
 aliases: []
-world:
+planet:
   - "[[Aethernam]]"
   - "[[Zephyrion]]"
 calendar: "aethernam"

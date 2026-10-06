@@ -1,10 +1,10 @@
 ---
 type: "place"
 aliases: []
-world:
-  - "[[Ether]]"
+planet: []
 calendar: "aethernam"
 place_type: "Plane of Existence"
+parent: "[[Astmara]]"
 owner: "[[Lower gods]]"
 included_organizations:
   - "[[Higher gods]]"

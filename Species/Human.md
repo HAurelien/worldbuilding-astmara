@@ -1,7 +1,7 @@
 ---
 type: "species"
 aliases: []
-world: []
+planet: []
 related_organizations:
   - "[[Lone Protectors]]"
   - "[[Lower gods]]"

@@ -1,10 +1,11 @@
 ---
 type: "place"
 aliases: []
-world:
+planet:
   - "[[Aethernam]]"
 calendar: "aethernam"
 place_type: "Planet"
+parent: "[[Astmara]]"
 owner: "[[Lone Protectors]]"
 status: "draft"
 tags: []

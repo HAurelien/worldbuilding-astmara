@@ -5,7 +5,7 @@ year: 2758
 end_year: 
 date: "2758-01-01 01:00"
 calendar: "aethernam"
-world:
+planet:
   - "[[Aethernam]]"
 era: "The containment"
 event_type: "Disaster / Destruction"

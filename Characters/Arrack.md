@@ -1,7 +1,7 @@
 ---
 type: "character"
 aliases: []
-world: []
+planet: []
 importance: "main"
 species: "[[Ether mirror]]"
 sex: "Female"

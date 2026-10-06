@@ -1,7 +1,7 @@
 ---
 type: "character"
 aliases: []
-world: []
+planet: []
 importance: "secondary"
 species: "[[Human]]"
 sex: "Female"

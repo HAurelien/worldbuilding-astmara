@@ -3,7 +3,7 @@ type: "meta"
 tags: []
 ---
 
-# Aethernam
+# Astmara
 
 **Current date:** 3048/01/01
 
@@ -26,7 +26,7 @@ views:
     name: Timelines
     order:
       - file.name
-      - world
+      - planet
       - calendar
 ```
 
@@ -65,7 +65,7 @@ views:
     order:
       - file.name
       - place_type
-      - world
+      - planet
 ```
 
 ## Characters
@@ -82,7 +82,7 @@ views:
       - file.name
       - importance
       - species
-      - world
+      - planet
       - affiliations
 ```
 
@@ -99,7 +99,7 @@ views:
     order:
       - file.name
       - affiliations
-      - world
+      - planet
 ```
 
 ## Organizations
@@ -115,7 +115,7 @@ views:
     order:
       - file.name
       - org_type
-      - world
+      - planet
 ```
 
 ## Species
@@ -130,7 +130,7 @@ views:
     name: Species
     order:
       - file.name
-      - world
+      - planet
 ```
 
 ## Conditions

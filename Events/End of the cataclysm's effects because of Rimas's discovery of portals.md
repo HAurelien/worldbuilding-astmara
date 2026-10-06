@@ -5,7 +5,7 @@ year: 1712
 end_year: 
 date: 
 calendar: "zephyrion"
-world:
+planet:
   - "[[Zephyrion]]"
 era: "The Silence"
 event_type: 

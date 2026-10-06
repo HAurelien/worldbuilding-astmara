@@ -1,7 +1,7 @@
 ---
 type: "timeline"
 aliases: []
-world:
+planet:
   - "[[Zephyrion]]"
 calendar: "zephyrion"
 status: "draft"

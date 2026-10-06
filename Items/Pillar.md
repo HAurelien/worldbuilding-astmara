@@ -1,7 +1,7 @@
 ---
 type: "item"
 aliases: []
-world: []
+planet: []
 importance: "key"
 item_type: "Unique Artifact"
 current_location: "[[Zephyrion]]"

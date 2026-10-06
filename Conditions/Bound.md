@@ -1,7 +1,7 @@
 ---
 type: "condition"
 aliases: []
-world: []
+planet: []
 condition_type: "Magical"
 origin: "Magical"
 rarity: "Rare"

@@ -1,10 +1,11 @@
 ---
 type: "place"
 aliases: []
-world:
+planet:
   - "[[Zephyrion]]"
 calendar: "zephyrion"
 place_type: "Planet"
+parent: "[[Astmara]]"
 included_organizations:
   - "[[Lone Protectors]]"
 status: "draft"

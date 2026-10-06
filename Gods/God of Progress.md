@@ -2,7 +2,7 @@
 type: "god"
 aliases:
   - "Anzaar"
-world:
+planet:
   - "[[Aethernam]]"
   - "[[Zephyrion]]"
 species: "[[Ether mirror]]"

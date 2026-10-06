@@ -5,7 +5,7 @@ year: 2753
 end_year: 
 date: "2753-07-19"
 calendar: "aethernam"
-world:
+planet:
   - "[[Aethernam]]"
 era: 
 event_type: "Metaphysical / Paranormal event"

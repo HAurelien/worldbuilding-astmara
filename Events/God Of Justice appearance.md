@@ -5,7 +5,7 @@ year: 1485
 end_year: 
 date: 
 calendar: "aethernam"
-world:
+planet:
   - "[[Aethernam]]"
 era: "The breakthrough"
 event_type: "Life, Supernatural"

@@ -5,7 +5,7 @@ year: 2804
 end_year: 
 date: 
 calendar: "aethernam"
-world:
+planet:
   - "[[Aethernam]]"
 era: 
 event_type: "Civil action"

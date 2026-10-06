@@ -1,7 +1,7 @@
 ---
 type: "item"
 aliases: []
-world: []
+planet: []
 importance: "key"
 item_type: "Book / Document"
 status: "draft"

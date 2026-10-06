@@ -1,31 +1,13 @@
 ---
-type: character
+type: "place"
 aliases: []
 planet: []
-importance: 
-species: 
-sex: 
-born: 
-died: 
-calendar: aethernam
-birthplace: 
-affiliations: []
-parents: []
-partners: []
-titles: []
-status: draft
+place_type: "World"
+status: "draft"
 tags: []
 ---
 
-## Summary
-
-## Appearance
-
-## Personality
-
-## History
-
-## Relationships
+Astmara is the world. Its planets include [[Aethernam]] and [[Zephyrion]].
 
 ## Events
 

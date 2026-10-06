@@ -5,7 +5,7 @@ year: 2740
 end_year: 
 date: "2740-10"
 calendar: "aethernam"
-world:
+planet:
   - "[[Aethernam]]"
 era: "The troubled age"
 event_type: "Discovery, Scientific"

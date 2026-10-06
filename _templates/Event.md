@@ -5,7 +5,7 @@ year:
 end_year: 
 date: 
 calendar: aethernam
-world: []
+planet: []
 era: 
 event_type: 
 location: []

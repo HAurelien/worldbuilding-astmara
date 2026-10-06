@@ -1,7 +1,7 @@
 ---
 type: place
 aliases: []
-world: []
+planet: []
 place_type: 
 parent: 
 owner: 

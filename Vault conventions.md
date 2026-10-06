@@ -5,13 +5,17 @@ tags: []
 
 # Vault conventions
 
+## World
+
+Astmara is the world; [[Aethernam]] and [[Zephyrion]] are planets in it, and the [[Ether]] is a plane of it.
+
 ## Folders
 
-One folder per kind of note: Characters, Gods, Places, Organizations, Species, Conditions, Items, Languages, Events, Timelines. Which world a note belongs to is the `world` property, not the folder. Importance (main, secondary, key) is the `importance` property.
+One folder per kind of note: Characters, Gods, Places, Organizations, Species, Conditions, Items, Languages, Events, Timelines. Which planet a note belongs to is the `planet` property, not the folder. Importance (main, secondary, key) is the `importance` property.
 
 ## Templates
 
-Templates live in `_templates`: Character, Place, Organization, Event. Gods use the Character template with `type: god`. Every note has a `type`, which is what the lists on [[Aethernam World]] are built from.
+Templates live in `_templates`: Character, Place, Organization, Event. Gods use the Character template with `type: god`. Every note has a `type`, which is what the lists on [[Astmara World]] are built from.
 
 ## Dates
 

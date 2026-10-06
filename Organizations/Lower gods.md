@@ -1,7 +1,7 @@
 ---
 type: "organization"
 aliases: []
-world:
+planet:
   - "[[Aethernam]]"
   - "[[Zephyrion]]"
 calendar: "aethernam"

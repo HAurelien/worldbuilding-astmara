@@ -1,7 +1,7 @@
 ---
 type: "timeline"
 aliases: []
-world:
+planet:
   - "[[Aethernam]]"
 calendar: "aethernam"
 status: "draft"

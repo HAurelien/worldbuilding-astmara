@@ -2,7 +2,7 @@
 type: "character"
 aliases:
   - "Littl'"
-world: []
+planet: []
 importance: "secondary"
 species: "[[Elementary]]"
 calendar: "aethernam"

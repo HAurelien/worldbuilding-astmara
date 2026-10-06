@@ -1,7 +1,7 @@
 ---
 type: organization
 aliases: []
-world: []
+planet: []
 org_type: 
 founded: 
 dissolved: 

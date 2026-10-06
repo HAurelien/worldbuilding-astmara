@@ -1,7 +1,7 @@
 ---
 type: "species"
 aliases: []
-world: []
+planet: []
 lifespan: "15 years"
 average_height: "0.7 m"
 average_weight: "25 kg"

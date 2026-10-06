@@ -5,7 +5,7 @@ year: 2701
 end_year: 
 date: "2701-07-09"
 calendar: "aethernam"
-world:
+planet:
   - "[[Aethernam]]"
 era: 
 event_type: "Life, Birth"

@@ -5,7 +5,7 @@ year: 2793
 end_year: 
 date: 
 calendar: "aethernam"
-world:
+planet:
   - "[[Aethernam]]"
 era: "The end"
 event_type: "Life, Supernatural"

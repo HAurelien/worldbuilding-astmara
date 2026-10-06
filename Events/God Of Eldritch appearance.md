@@ -5,7 +5,7 @@ year: 1612
 end_year: 
 date: 
 calendar: "aethernam"
-world:
+planet:
   - "[[Aethernam]]"
 era: "The troubled age"
 event_type: "Life, Supernatural"

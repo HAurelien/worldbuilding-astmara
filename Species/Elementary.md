@@ -1,7 +1,7 @@
 ---
 type: "species"
 aliases: []
-world: []
+planet: []
 status: "draft"
 tags: []
 wa_id: "7fd1dfc4-6c30-4ce7-a552-60be17e4f4ad"

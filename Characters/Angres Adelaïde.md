@@ -2,7 +2,7 @@
 type: "character"
 aliases:
   - "Angres"
-world: []
+planet: []
 importance: "main"
 species: "[[Human]]"
 sex: "Female"

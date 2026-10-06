@@ -2,7 +2,7 @@
 type: "character"
 aliases:
   - "Rimas"
-world:
+planet:
   - "[[Aethernam]]"
   - "[[Zephyrion]]"
 importance: "main"

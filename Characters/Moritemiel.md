@@ -3,7 +3,7 @@ type: "character"
 aliases:
   - "Moritemiel Rianthurin"
   - "Mori"
-world: []
+planet: []
 importance: "secondary"
 calendar: "aethernam"
 affiliations:

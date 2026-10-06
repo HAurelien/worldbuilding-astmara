@@ -2,7 +2,7 @@
 type: "character"
 aliases:
   - "Atios Liros"
-world: []
+planet: []
 importance: "main"
 calendar: "aethernam"
 affiliations:

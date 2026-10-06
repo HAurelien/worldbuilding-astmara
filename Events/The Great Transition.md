@@ -5,7 +5,7 @@ year: 0
 end_year: 
 date: "0-04-12 06:00"
 calendar: "aethernam"
-world:
+planet:
   - "[[Aethernam]]"
 era: "The true peace"
 event_type: "Political event"

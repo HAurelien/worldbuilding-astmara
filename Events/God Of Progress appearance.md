@@ -5,7 +5,7 @@ year: 783
 end_year: 
 date: 
 calendar: "aethernam"
-world:
+planet:
   - "[[Aethernam]]"
 era: "The true peace"
 event_type: "Scientific achievement"
